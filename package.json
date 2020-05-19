@@ -1,0 +1,24 @@
+{
+  "name": "excel-cource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamynale/excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Kamynin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamynale/excel-course/issues"
+  },
+  "homepage": "https://github.com/Kamynale/excel-course#readme"
+}
